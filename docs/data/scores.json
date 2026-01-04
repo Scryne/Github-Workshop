@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-01-04T15:29:17Z",
+  "lastUpdated": "2026-01-04T15:32:44Z",
   "statistics": {
     "totalStudents": 11,
     "totalSubmissions": 10,
-    "averageScore": 75.7690909090909,
+    "averageScore": 78.04181818181819,
     "highestScore": 100,
     "problemStats": {
       "problem1": {
@@ -147,8 +147,8 @@
         "problem3": 0,
         "problem4": 0
       },
-      "total": 50,
-      "lastSubmission": "2026-01-04T15:29:17Z"
+      "total": 75,
+      "lastSubmission": "2026-01-04T15:32:44Z"
     }
   ]
 }
